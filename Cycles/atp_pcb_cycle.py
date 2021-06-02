@@ -18,4 +18,3 @@ ts1 = TestSequence(
     teardown=lambda: post_cycle(),
 )
 
-ts1.start()
