@@ -1,3 +1,4 @@
 ate
+webbrowser
 tk
 tkmats
